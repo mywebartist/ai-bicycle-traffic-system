@@ -1,7 +1,9 @@
 # ai-bicycle-traffic-system
 
+This is a bicycle traffic lights system which can control lights to reduce waiting time for cyclists approaching to cross the road. It is built using neural network model and machine learning.
 
-Install 
+Install python and tensorflow/tensorflow lite
+
 
 Command to run on Raspberry Pi
 `python process_vid_pi.py`
